@@ -1,0 +1,9 @@
+__pycache__/
+*.npz
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+.venv/
+article/
